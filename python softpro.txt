@@ -1,0 +1,10 @@
+basic programing 
+________________
+ flow controls
+  a.Decison controls
+ 	i.if
+	ii.if else(nested)
+	iii.ladder
+  b.Loop contorls
+	i.while
+	ii.for
